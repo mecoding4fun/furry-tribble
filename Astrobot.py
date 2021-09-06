@@ -1,7 +1,7 @@
 import telebot
 import datetime
 # from telebot import types
-bot = telebot.TeleBot("1640805626:AAF9_CSGSagtrHWQmdxUgtzt4oTrafEsQn4")
+bot = telebot.TeleBot("1879281515:AAEyNmgzQREkGsxR2oI8CW1twXiGCrbWPYA")
 
 @bot.message_handler(commands=['promos'])
 def promote(message):
