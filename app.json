@@ -1,7 +1,7 @@
 {
     "name": "cgensas",
     "repository": "https://github.com/mecoding4fun/furry-tribble",
-    "stack": "container",
+    "stack": "heroku-20",
     "formation": {
         "worker": {
             "quantity": 1,
