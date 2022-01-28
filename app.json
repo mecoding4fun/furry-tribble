@@ -1,0 +1,11 @@
+{
+    "name": "cgensas",
+    "repository": "https://github.com/mecoding4fun/furry-tribble",
+    "stack": "container",
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
